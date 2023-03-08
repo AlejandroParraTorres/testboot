@@ -14,5 +14,3 @@ Resumen de Markdown
     - one more item
     - one more item
     - one more item
-
-### Estoy modificando el fichero
